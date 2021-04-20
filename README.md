@@ -2,6 +2,10 @@
 
 Roomba is a robot that can navigate in a 10x10 grid by moving forward or turning right.
 
+Try it out: [https://roomba-three.vercel.app/](https://roomba-three.vercel.app/)
+
+[![demo](https://roomba-three.vercel.app/roomba_demo.gif)](https://roomba-three.vercel.app/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
