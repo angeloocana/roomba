@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Roomba
+
+Roomba is a robot that can navigate in a 10x10 grid by moving forward or turning right.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
